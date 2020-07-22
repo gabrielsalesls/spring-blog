@@ -1,6 +1,10 @@
 # Spring Blog
 > Site em formato de Blog utilizando o Spring Framework.
 
+# Link para AWS
+
+- http://springblog-dev.sa-east-1.elasticbeanstalk.com/posts
+
 ![](images/Screenshot.png)
 
 # Tecnologias utilizadas
